@@ -1,4 +1,6 @@
-# HEALING NOTES - TABLE OF CONTENTS
+# HEALING NOTES
+
+## TABLE OF CONTENTS
 
 **Chapter 1: Pediatric Proposition** - Eli and Sophie are approached by Dr. Rebecca Chen about adapting their cardiac music therapy protocol for pediatric applications.
 
